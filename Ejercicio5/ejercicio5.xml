@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agenda>
+    <propietario id = "1">
+        <nombre>Jason Saul</nombre>
+        <telefono tipo = "celular">
+            
+        </telefono>
+        <email>ma17092@ues.edu.sv</email>
+        <direccion>
+            
+        </direccion>
+        <contactos>
+            <contacto id = "1">
+                <nombre>
+                    
+                </nombre>
+                <telefono tipo = "fijo">
+                    
+                </telefono>
+                <telefono tipo = "celular">
+                    
+                </telefono>
+                <direccion>
+                    
+                </direccion>
+                <email>
+                    
+                </email>
+            </contacto>
+
+            <contacto id = "2">
+                <nombre>
+                    
+                </nombre>
+                <telefono tipo = "fijo">
+                    
+                </telefono>
+                <telefono tipo = "celular">
+                    
+                </telefono>
+                <direccion>
+                    
+                </direccion>
+                <email>
+                    
+                </email>
+            </contacto>
+
+            <contacto id = "3">
+                <nombre>
+                    
+                </nombre>
+                <telefono tipo = "fijo">
+                    
+                </telefono>
+                <telefono tipo = "celular">
+                    
+                </telefono>
+                <direccion>
+                    
+                </direccion>
+                <email>
+                    
+                </email>
+            </contacto>
+        </contactos>
+    </propietario>
+</agenda>
