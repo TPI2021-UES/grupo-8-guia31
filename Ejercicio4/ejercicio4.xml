@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<semanas>
+    <semana id = "1" numero = "1">
+        <zona nombre = "oriental">
+            <lunes>
+                <minimo grados = "centigrados">23</minimo>
+                <maximo grados = "centigrados">33</maximo>
+                <promedio grados = "centigrados">28</promedio>
+            </lunes>
+            <martes>
+                <minimo grados = "centigrados">23</minimo>
+                <maximo grados = "centigrados">32</maximo>
+                <promedio grados = "centigrados">27</promedio>
+            </martes>
+            <miercoles>
+                <minimo grados = "centigrados">23</minimo>
+                <maximo grados = "centigrados">32</maximo>
+                <promedio grados = "centigrados">25</promedio>
+            </miercoles>
+            <jueves>
+                <minimo grados = "centigrados">23</minimo>
+                <maximo grados = "centigrados">31</maximo>
+                <promedio grados = "centigrados">26</promedio>
+            </jueves>
+            <viernes>
+                <minimo grados = "centigrados">23</minimo>
+                <maximo grados = "centigrados">29</maximo>
+                <promedio grados = "centigrados">24</promedio>
+            </viernes>
+            <sabado>
+                <minimo grados = "centigrados">23</minimo>
+                <maximo grados = "centigrados">29</maximo>
+                <promedio grados = "centigrados">24</promedio>
+            </sabado>
+            <domingo>
+                <minimo grados = "centigrados">23</minimo>
+                <maximo grados = "centigrados">29</maximo>
+                <promedio grados = "centigrados">24</promedio>
+            </domingo>
+        </zona>
+        <zona nombre = "central">
+            <lunes>
+                <minimo grados = "centigrados">22</minimo>
+                <maximo grados = "centigrados">29</maximo>
+                <promedio grados = "centigrados">23</promedio>
+            </lunes>
+            <martes>
+                <minimo grados = "centigrados">22</minimo>
+                <maximo grados = "centigrados">29</maximo>
+                <promedio grados = "centigrados">24</promedio>
+            </martes>
+            <miercoles>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">28</maximo>
+                <promedio grados = "centigrados">24</promedio>
+            </miercoles>
+            <jueves>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">28</maximo>
+                <promedio grados = "centigrados">24</promedio>
+            </jueves>
+            <viernes>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">28</maximo>
+                <promedio grados = "centigrados">23</promedio>
+            </viernes>
+        </zona>
+        <zona nombre = "occidental">
+            <lunes>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">28</maximo>
+                <promedio grados = "centigrados">25</promedio>
+            </lunes>
+            <martes>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">29</maximo>
+                <promedio grados = "centigrados">26</promedio>
+            </martes>
+            <miercoles>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">27</maximo>
+                <promedio grados = "centigrados">24</promedio>
+            </miercoles>
+            <jueves>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">27</maximo>
+                <promedio grados = "centigrados">23</promedio>
+            </jueves>
+            <viernes>
+                <minimo grados = "centigrados">19</minimo>
+                <maximo grados = "centigrados">27</maximo>
+                <promedio grados = "centigrados">23</promedio>
+            </viernes>
+            <sabado>
+                <minimo grados = "centigrados">19</minimo>
+                <maximo grados = "centigrados">26</maximo>
+                <promedio grados = "centigrados">22</promedio>
+            </sabado>
+            <domingo>
+                <minimo grados = "centigrados">19</minimo>
+                <maximo grados = "centigrados">28</maximo>
+                <promedio grados = "centigrados">24</promedio>
+            </domingo>
+        </zona>
+    </semana>
+    <semana id = "2" numero = "2">
+        <zona nombre = "oriental">
+            <lunes>
+                <minimo grados = "centigrados">23</minimo>
+                <maximo grados = "centigrados">33</maximo>
+                <promedio grados = "centigrados">28</promedio>
+            </lunes>
+            <martes>
+                <minimo grados = "centigrados">23</minimo>
+                <maximo grados = "centigrados">32</maximo>
+                <promedio grados = "centigrados">27</promedio>
+            </martes>
+            <miercoles>
+                <minimo grados = "centigrados">23</minimo>
+                <maximo grados = "centigrados">32</maximo>
+                <promedio grados = "centigrados">25</promedio>
+            </miercoles>
+            <jueves>
+                <minimo grados = "centigrados">23</minimo>
+                <maximo grados = "centigrados">31</maximo>
+                <promedio grados = "centigrados">26</promedio>
+            </jueves>
+            <viernes>
+                <minimo grados = "centigrados">23</minimo>
+                <maximo grados = "centigrados">29</maximo>
+                <promedio grados = "centigrados">24</promedio>
+            </viernes>
+            <sabado>
+                <minimo grados = "centigrados">23</minimo>
+                <maximo grados = "centigrados">29</maximo>
+                <promedio grados = "centigrados">24</promedio>
+            </sabado>
+            <domingo>
+                <minimo grados = "centigrados">23</minimo>
+                <maximo grados = "centigrados">29</maximo>
+                <promedio grados = "centigrados">24</promedio>
+            </domingo>
+        </zona>
+        <zona nombre = "central">
+            <lunes>
+                <minimo grados = "centigrados">22</minimo>
+                <maximo grados = "centigrados">29</maximo>
+                <promedio grados = "centigrados">23</promedio>
+            </lunes>
+            <martes>
+                <minimo grados = "centigrados">22</minimo>
+                <maximo grados = "centigrados">29</maximo>
+                <promedio grados = "centigrados">24</promedio>
+            </martes>
+            <miercoles>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">28</maximo>
+                <promedio grados = "centigrados">24</promedio>
+            </miercoles>
+            <jueves>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">28</maximo>
+                <promedio grados = "centigrados">24</promedio>
+            </jueves>
+            <viernes>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">28</maximo>
+                <promedio grados = "centigrados">23</promedio>
+            </viernes>
+        </zona>
+        <zona nombre = "occidental">
+            <lunes>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">28</maximo>
+                <promedio grados = "centigrados">25</promedio>
+            </lunes>
+            <martes>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">29</maximo>
+                <promedio grados = "centigrados">26</promedio>
+            </martes>
+            <miercoles>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">27</maximo>
+                <promedio grados = "centigrados">24</promedio>
+            </miercoles>
+            <jueves>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">27</maximo>
+                <promedio grados = "centigrados">23</promedio>
+            </jueves>
+            <viernes>
+                <minimo grados = "centigrados">19</minimo>
+                <maximo grados = "centigrados">27</maximo>
+                <promedio grados = "centigrados">23</promedio>
+            </viernes>
+            <sabado>
+                <minimo grados = "centigrados">19</minimo>
+                <maximo grados = "centigrados">26</maximo>
+                <promedio grados = "centigrados">22</promedio>
+            </sabado>
+            <domingo>
+                <minimo grados = "centigrados">19</minimo>
+                <maximo grados = "centigrados">28</maximo>
+                <promedio grados = "centigrados">24</promedio>
+            </domingo>
+        </zona>
+    </semana>
+</semanas>
