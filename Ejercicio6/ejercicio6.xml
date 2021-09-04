@@ -1,0 +1,96 @@
+<?xml version = "1.0" encoding="UTF-8" ?>
+<calendario>
+    <propietario>
+        <nombre>
+            
+        </nombre>
+        <apellidos>
+            
+        </apellidos>
+        <carnet>
+            
+        </carnet>
+        <materiasInscritas>
+            <materia>
+                <codigo>
+                    
+                </codigo>
+                <nombre>
+                    
+                </nombre>
+                <horario>
+                    <teorico>
+                        
+                    </teorico>
+                    <laboratorio>
+                        
+                    </laboratorio>
+                </horario>
+            </materia>
+            <materia>
+                <codigo>
+                    
+                </codigo>
+                <nombre>
+                    
+                </nombre>
+                <horario>
+                    <teorico>
+                        
+                    </teorico>
+                    <laboratorio>
+                        
+                    </laboratorio>
+                </horario>
+            </materia>
+            <materia>
+                <codigo>
+                    
+                </codigo>
+                <nombre>
+                    
+                </nombre>
+                <horario>
+                    <teorico>
+                        
+                    </teorico>
+                    <laboratorio>
+                        
+                    </laboratorio>
+                </horario>
+            </materia>
+            <materia>
+                <codigo>
+                    
+                </codigo>
+                <nombre>
+                    
+                </nombre>
+                <horario>
+                    <teorico>
+                        
+                    </teorico>
+                    <laboratorio>
+                        
+                    </laboratorio>
+                </horario>
+            </materia>
+            <materia>
+                <codigo>
+                    
+                </codigo>
+                <nombre>
+                    
+                </nombre>
+                <horario>
+                    <teorico>
+                        
+                    </teorico>
+                    <laboratorio>
+                        
+                    </laboratorio>
+                </horario>
+            </materia>
+        </materiasInscritas>
+    </propietario>
+</calendario>
