@@ -2,6 +2,20 @@ calendario{
     background-color: aliceblue;
     padding: 10px;
 }
+
+propietario{
+    margin: 10px;
+    padding: 20px;
+}
+
+propietario::before {
+    content: "Propietario";
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+}
+
 nombre, apellido, carnet{
     color: black;
     font-family: 'Times New Roman', Times, serif;
@@ -13,6 +27,14 @@ nombre, apellido, carnet{
 materiasInscritas{
     padding: 30px;
     display: block;
+}
+
+materiasInscritas::before {
+    content: "Materias";
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
 }
 
 materia{
