@@ -1,17 +1,35 @@
-agenda{
+agenda {
     background-color: rgb(189, 189, 189);
     margin: 0;
     padding: 0;
 }
-propietario{
+agenda::before {
+    content: "Agenda";
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 30px;
+}
+propietario {
     margin: 10px;
     padding: 20px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Times New Roman", Times, serif;
     text-align: center;
     display: flex;
     flex-direction: column;
 }
-nombre, telefono, email, direccion{
+
+propietario::before {
+    content: "Propietario";
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+}
+nombre,
+telefono,
+email,
+direccion {
     background-color: rgb(112, 141, 153);
     margin: 5px;
     padding: 5px;
@@ -19,15 +37,23 @@ nombre, telefono, email, direccion{
     width: 300px;
     height: auto;
 }
-contacto{
+contacto {
     background-color: rgb(172, 161, 192);
     margin: 20px;
     padding: 20px;
     display: block;
     width: 400px;
-
 }
 
-contactos{
+contactos {
     padding: 10px;
 }
+
+contactos::before {
+    content: "Contactos";
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: -200px;
+}
+
