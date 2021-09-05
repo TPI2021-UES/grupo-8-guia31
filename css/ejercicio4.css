@@ -1,34 +1,119 @@
-semanas{
+semanas {
     background-color: white;
     margin: 0;
     padding: 0;
     align-content: center;
 }
-semana{
+semanas::before {
+    content: "Temperaturas";
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 30px;
+}
+
+semana {
     display: block;
     background-color: rgb(73, 168, 116);
     color: black;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Times New Roman", Times, serif;
     margin: 20px;
     padding: 20px;
     height: auto;
-    width: 800px;
+    width: 1100px;
     border-radius: 30px;
     box-shadow: black 4px 4px 4px;
 }
+semana::before {
+    content: "Inicio Semana " attr(inicioSemana) " - " "Final Semana "
+        attr(finalSemana);
+    font-weight: 400;
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+}
 
-zona{
+zona {
     background-color: rgb(102, 145, 184);
     margin: 30px;
     padding: 20px;
     height: auto;
     width: auto;
     border-radius: 40px;
-    display: block;
+    display: flex;
+    align-items: center;
+}
+zona::before {
+    content: "Zona " attr(nombre);
 }
 
-lunes, martes, miercoles, jueves, viernes, sabado,domingo{
+lunes,
+martes,
+miercoles,
+jueves,
+viernes,
+sabado,
+domingo {
     background-color: rgb(170, 120, 120);
     margin: 7px;
     padding: 5px;
+    display: flex;
+    flex-direction: column;
 }
+
+domingo::before {
+    content: "Domingo:";
+    text-align: center;
+}
+lunes::before {
+    content: "Lunes:";
+    text-align: center;
+}
+martes::before {
+    content: "Martes:";
+    text-align: center;
+}
+
+miercoles::before {
+    content: "Miercoles:";
+    text-align: center;
+}
+jueves::before {
+    content: "Jueves:";
+    text-align: center;
+}
+viernes::before {
+    content: "Viernes:";
+    text-align: center;
+}
+sabado::before {
+    content: "Sabado:";
+    text-align: center;
+}
+minimo::before {
+    content: "Minimo: ";
+    text-align: center;
+}
+maximo::before {
+    content: "Maximo: ";
+    text-align: center;
+}
+
+promedio::before {
+    content: "Promedio: ";
+    text-align: center;
+}
+
+minimo::after {
+    content: "°C";
+    text-align: center;
+}
+
+maximo::after {
+    content: "°C";
+    text-align: center;
+}
+promedio::after {
+    content: "°C";
+    text-align: center;
+}
+

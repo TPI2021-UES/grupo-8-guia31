@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?xml-stylesheet type="text/css" href="../css/ejercicio4.css" ?>
 <semanas>
-    <semana id = "1" numero = "1">
+    <semana id = "1" numero = "1" inicioSemana = "29/08/2021" finalSemana = "4/09/2021">
         <zona nombre = "oriental">
             <lunes>
                 <minimo grados = "centigrados">23</minimo>
@@ -65,6 +65,16 @@
                 <maximo grados = "centigrados">28</maximo>
                 <promedio grados = "centigrados">23</promedio>
             </viernes>
+            <sabado>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">28</maximo>
+                <promedio grados = "centigrados">23</promedio>
+            </sabado>
+            <domingo>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">28</maximo>
+                <promedio grados = "centigrados">23</promedio>
+            </domingo>
         </zona>
         <zona nombre = "occidental">
             <lunes>
@@ -104,7 +114,7 @@
             </domingo>
         </zona>
     </semana>
-    <semana id = "2" numero = "2">
+    <semana id = "2" numero = "2" inicioSemana = "5/09/2021" finalSemana = "11/09/2021">
         <zona nombre = "oriental">
             <lunes>
                 <minimo grados = "centigrados">23</minimo>
@@ -168,6 +178,16 @@
                 <maximo grados = "centigrados">28</maximo>
                 <promedio grados = "centigrados">23</promedio>
             </viernes>
+            <sabado>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">28</maximo>
+                <promedio grados = "centigrados">23</promedio>
+            </sabado>
+            <domingo>
+                <minimo grados = "centigrados">21</minimo>
+                <maximo grados = "centigrados">28</maximo>
+                <promedio grados = "centigrados">23</promedio>
+            </domingo>
         </zona>
         <zona nombre = "occidental">
             <lunes>
