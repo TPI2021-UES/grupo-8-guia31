@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="../css/ejercicio4.css" ?>
 <semanas>
     <semana id = "1" numero = "1">
         <zona nombre = "oriental">

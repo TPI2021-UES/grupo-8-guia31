@@ -1,0 +1,66 @@
+{
+	"agenda": {
+		"propietario": {
+			"nombre": "Jason Saul",
+			"telefono": {
+				"_tipo": "celular",
+				"__text": "77-31-36-21"
+			},
+			"email": "ma17092@ues.edu.sv",
+			"direccion": "calle los chorros pasaje k casa #14",
+			"contactos": {
+				"contacto": [
+					{
+						"nombre": "Maria",
+						"telefono": [
+							{
+								"_tipo": "fijo",
+								"__text": "no hay"
+							},
+							{
+								"_tipo": "celular",
+								"__text": "71-89-25-63"
+							}
+						],
+						"direccion": "calle los angeles 31 a",
+						"email": "maria15@gmail.com",
+						"_id": "1"
+					},
+					{
+						"nombre": "Pizza Nash",
+						"telefono": [
+							{
+								"_tipo": "fijo",
+								"__text": "25-25-25-25"
+							},
+							{
+								"_tipo": "celular",
+								"__text": "no hay"
+							}
+						],
+						"direccion": "calle escalon avenida norte departamento #10",
+						"email": "pizzanash@gmail.com.sv",
+						"_id": "2"
+					},
+					{
+						"nombre": "Pedro Escalon",
+						"telefono": [
+							{
+								"_tipo": "fijo",
+								"__text": "21-25-23-25"
+							},
+							{
+								"_tipo": "celular",
+								"__text": "25-69-78-63"
+							}
+						],
+						"direccion": "colonia escalo avenida norte casa 60",
+						"email": "pedro1245@yahoo.com",
+						"_id": "3"
+					}
+				]
+			},
+			"_id": "1"
+		}
+	}
+}

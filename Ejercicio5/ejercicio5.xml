@@ -1,66 +1,67 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="../css/ejercicio5.css" ?>
 <agenda>
     <propietario id = "1">
         <nombre>Jason Saul</nombre>
         <telefono tipo = "celular">
-            
+            77-31-36-21
         </telefono>
         <email>ma17092@ues.edu.sv</email>
         <direccion>
-            
+            calle los chorros pasaje k casa #14
         </direccion>
         <contactos>
             <contacto id = "1">
                 <nombre>
-                    
+                    Maria
                 </nombre>
                 <telefono tipo = "fijo">
-                    
+                    no hay
                 </telefono>
                 <telefono tipo = "celular">
-                    
+                    71-89-25-63
                 </telefono>
                 <direccion>
-                    
+                    calle los angeles 31 a
                 </direccion>
                 <email>
-                    
+                    maria15@gmail.com
                 </email>
             </contacto>
 
             <contacto id = "2">
                 <nombre>
-                    
+                    Pizza Nash
                 </nombre>
                 <telefono tipo = "fijo">
-                    
+                    25-25-25-25
                 </telefono>
                 <telefono tipo = "celular">
-                    
+                    no hay
                 </telefono>
                 <direccion>
-                    
+                    calle escalon avenida norte departamento #10
                 </direccion>
                 <email>
-                    
+                    pizzanash@gmail.com.sv
                 </email>
             </contacto>
 
             <contacto id = "3">
                 <nombre>
-                    
+                    Pedro Escalon
                 </nombre>
                 <telefono tipo = "fijo">
-                    
+                    21-25-23-25
                 </telefono>
                 <telefono tipo = "celular">
-                    
+                    25-69-78-63
                 </telefono>
                 <direccion>
-                    
+                    colonia escalo avenida norte casa 60
                 </direccion>
                 <email>
-                    
+                    pedro1245@yahoo.com
                 </email>
             </contacto>
         </contactos>

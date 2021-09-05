@@ -1,0 +1,34 @@
+semanas{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    align-content: center;
+}
+semana{
+    display: block;
+    background-color: rgb(73, 168, 116);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    padding: 20px;
+    height: auto;
+    width: 800px;
+    border-radius: 30px;
+    box-shadow: black 4px 4px 4px;
+}
+
+zona{
+    background-color: rgb(102, 145, 184);
+    margin: 30px;
+    padding: 20px;
+    height: auto;
+    width: auto;
+    border-radius: 40px;
+    display: block;
+}
+
+lunes, martes, miercoles, jueves, viernes, sabado,domingo{
+    background-color: rgb(170, 120, 120);
+    margin: 7px;
+    padding: 5px;
+}

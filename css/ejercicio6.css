@@ -1,0 +1,27 @@
+calendario{
+    background-color: aliceblue;
+    padding: 10px;
+}
+nombre, apellido, carnet{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    display: block;
+    margin: 5px;
+}
+
+materiasInscritas{
+    padding: 30px;
+    display: block;
+}
+
+materia{
+    padding: 20px;
+    margin: 30px;
+    height: auto;
+    width: auto;
+    background-color: rgb(122, 116, 216);
+    display: block;
+    border-radius: 30px;
+    box-shadow: rgb(99, 99, 99) 5px 5px 3px;
+}

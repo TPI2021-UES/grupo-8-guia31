@@ -1,0 +1,33 @@
+agenda{
+    background-color: rgb(189, 189, 189);
+    margin: 0;
+    padding: 0;
+}
+propietario{
+    margin: 10px;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+nombre, telefono, email, direccion{
+    background-color: rgb(112, 141, 153);
+    margin: 5px;
+    padding: 5px;
+    display: block;
+    width: 300px;
+    height: auto;
+}
+contacto{
+    background-color: rgb(172, 161, 192);
+    margin: 20px;
+    padding: 20px;
+    display: block;
+    width: 400px;
+
+}
+
+contactos{
+    padding: 10px;
+}

@@ -1,0 +1,50 @@
+{
+	"calendario": {
+		"propietario": {
+			"nombre": "Mario Juan",
+			"apellidos": "Torres Moralks",
+			"carnet": "TM17015",
+			"materiasInscritas": {
+				"materia": [
+					{
+						"codigo": "MAT415",
+						"nombre": "Matematica IV",
+						"horario": {
+							"teorico": "GT-01",
+							"laboratorio": "Gl-30"
+						},
+						"_escuela": "UCB"
+					},
+					{
+						"codigo": "TPI115",
+						"nombre": "Tecnicas de Programación para Internet",
+						"horario": {
+							"teorico": "GT-01",
+							"laboratorio": "GL-04"
+						},
+						"_escuela": "EISI"
+					},
+					{
+						"codigo": "TSI115",
+						"nombre": "Teoria de Sistemas",
+						"horario": {
+							"teorico": "GT-01",
+							"laboratorio": "GL-01"
+						},
+						"_escuela": "EISI"
+					},
+					{
+						"codigo": "FIR315",
+						"nombre": "Fisica III",
+						"horario": {
+							"teorico": "GT-01",
+							"laboratorio": "GL-25",
+							"discucion": "GD-32"
+						},
+						"_escuela": "UCB"
+					}
+				]
+			}
+		}
+	}
+}

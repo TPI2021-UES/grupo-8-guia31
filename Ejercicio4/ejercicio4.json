@@ -1,0 +1,568 @@
+{
+	"semanas": {
+		"semana": [
+			{
+				"zona": [
+					{
+						"lunes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "23"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "33"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "28"
+							}
+						},
+						"martes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "23"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "32"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "27"
+							}
+						},
+						"miercoles": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "23"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "32"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "25"
+							}
+						},
+						"jueves": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "23"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "31"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "26"
+							}
+						},
+						"viernes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "23"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "29"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "24"
+							}
+						},
+						"sabado": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "23"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "29"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "24"
+							}
+						},
+						"domingo": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "23"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "29"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "24"
+							}
+						},
+						"_nombre": "oriental"
+					},
+					{
+						"lunes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "22"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "29"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "23"
+							}
+						},
+						"martes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "22"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "29"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "24"
+							}
+						},
+						"miercoles": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "21"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "28"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "24"
+							}
+						},
+						"jueves": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "21"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "28"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "24"
+							}
+						},
+						"viernes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "21"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "28"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "23"
+							}
+						},
+						"_nombre": "central"
+					},
+					{
+						"lunes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "21"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "28"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "25"
+							}
+						},
+						"martes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "21"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "29"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "26"
+							}
+						},
+						"miercoles": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "21"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "27"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "24"
+							}
+						},
+						"jueves": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "21"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "27"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "23"
+							}
+						},
+						"viernes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "19"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "27"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "23"
+							}
+						},
+						"sabado": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "19"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "26"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "22"
+							}
+						},
+						"domingo": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "19"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "28"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "24"
+							}
+						},
+						"_nombre": "occidental"
+					}
+				],
+				"_id": "1",
+				"_numero": "1"
+			},
+			{
+				"zona": [
+					{
+						"lunes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "23"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "33"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "28"
+							}
+						},
+						"martes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "23"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "32"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "27"
+							}
+						},
+						"miercoles": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "23"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "32"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "25"
+							}
+						},
+						"jueves": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "23"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "31"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "26"
+							}
+						},
+						"viernes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "23"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "29"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "24"
+							}
+						},
+						"sabado": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "23"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "29"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "24"
+							}
+						},
+						"domingo": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "23"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "29"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "24"
+							}
+						},
+						"_nombre": "oriental"
+					},
+					{
+						"lunes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "22"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "29"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "23"
+							}
+						},
+						"martes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "22"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "29"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "24"
+							}
+						},
+						"miercoles": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "21"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "28"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "24"
+							}
+						},
+						"jueves": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "21"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "28"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "24"
+							}
+						},
+						"viernes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "21"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "28"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "23"
+							}
+						},
+						"_nombre": "central"
+					},
+					{
+						"lunes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "21"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "28"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "25"
+							}
+						},
+						"martes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "21"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "29"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "26"
+							}
+						},
+						"miercoles": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "21"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "27"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "24"
+							}
+						},
+						"jueves": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "21"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "27"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "23"
+							}
+						},
+						"viernes": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "19"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "27"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "23"
+							}
+						},
+						"sabado": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "19"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "26"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "22"
+							}
+						},
+						"domingo": {
+							"minimo": {
+								"_grados": "centigrados",
+								"__text": "19"
+							},
+							"maximo": {
+								"_grados": "centigrados",
+								"__text": "28"
+							},
+							"promedio": {
+								"_grados": "centigrados",
+								"__text": "24"
+							}
+						},
+						"_nombre": "occidental"
+					}
+				],
+				"_id": "2",
+				"_numero": "2"
+			}
+		]
+	}
+}

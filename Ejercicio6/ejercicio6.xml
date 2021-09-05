@@ -1,94 +1,82 @@
 <?xml version = "1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="../css/ejercicio6.css" ?>
 <calendario>
     <propietario>
         <nombre>
-            
+            Mario Juan
         </nombre>
         <apellidos>
-            
+            Torres Moralks
         </apellidos>
         <carnet>
-            
+            TM17015
         </carnet>
         <materiasInscritas>
-            <materia>
+            <materia escuela="UCB">
                 <codigo>
-                    
+                    MAT415
                 </codigo>
                 <nombre>
-                    
+                    Matematica IV
                 </nombre>
                 <horario>
                     <teorico>
-                        
+                        GT-01
                     </teorico>
                     <laboratorio>
-                        
+                        Gl-30
                     </laboratorio>
                 </horario>
             </materia>
-            <materia>
+            <materia escuela="EISI">
                 <codigo>
-                    
+                    TPI115
                 </codigo>
                 <nombre>
-                    
+                    Tecnicas de Programación para Internet
                 </nombre>
                 <horario>
                     <teorico>
-                        
+                        GT-01
                     </teorico>
                     <laboratorio>
-                        
+                        GL-04
                     </laboratorio>
                 </horario>
             </materia>
-            <materia>
+            <materia escuela="EISI">
                 <codigo>
-                    
+                    TSI115
                 </codigo>
                 <nombre>
-                    
+                    Teoria de Sistemas
                 </nombre>
                 <horario>
                     <teorico>
-                        
+                        GT-01
                     </teorico>
                     <laboratorio>
-                        
+                        GL-01
                     </laboratorio>
                 </horario>
             </materia>
-            <materia>
+            <materia escuela="UCB">
                 <codigo>
-                    
+                    FIR315
                 </codigo>
                 <nombre>
-                    
+                    Fisica III
                 </nombre>
                 <horario>
                     <teorico>
-                        
+                        GT-01
                     </teorico>
                     <laboratorio>
-                        
+                        GL-25
                     </laboratorio>
-                </horario>
-            </materia>
-            <materia>
-                <codigo>
-                    
-                </codigo>
-                <nombre>
-                    
-                </nombre>
-                <horario>
-                    <teorico>
-                        
-                    </teorico>
-                    <laboratorio>
-                        
-                    </laboratorio>
+                    <discucion>
+                        GD-32
+                    </discucion>
                 </horario>
             </materia>
         </materiasInscritas>
